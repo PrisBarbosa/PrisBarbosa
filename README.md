@@ -1,4 +1,4 @@
-## Oiee!!! Eu sou Priscila Barbosa!!! Engajada na transformação para para tomada de decisão data driven!
+## Oiee!!! Eu sou Priscila Barbosa!!! Engajada na transformação para tomada de decisão data driven!
 
 ##
 
