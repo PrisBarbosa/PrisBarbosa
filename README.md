@@ -21,10 +21,10 @@
   <a href = "mailto:priscila.kort@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/prisbarbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/comcienciadedados" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+   ![Snake animation](https://github.com/PrisBarbosa/PriscBarbosa/blob/output/github-contribution-grid-snake.svg)
   </div> 
-    
-![Snake animation](https://github.com/PrisBarbosa/PriscBarbosa/blob/output/github-contribution-grid-snake.svg)   
-    
+       
 ##
     
 ![meugif](https://user-images.githubusercontent.com/95291494/144163060-491a33bd-a356-4781-847a-1dbc218bd858.gif)
