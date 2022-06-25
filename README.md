@@ -16,6 +16,7 @@
 <img align="center" height="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU3s8bkQPMndvSl3XQzI9fNdaRAZv-kdznc19IP-VCvb-Nnkh_1MfgTwHkIgBD37ktTOk&usqp=CAU" /> 
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
 <img align="center" height="50" width="60" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/dbeaver_94555.png" />
+<img align="center" height="50" width="60" src="https://icon-icons.com/pt/icone/python-vertical-logo/168039.png " />
 
           
 ##
